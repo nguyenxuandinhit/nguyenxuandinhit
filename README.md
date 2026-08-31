@@ -184,51 +184,76 @@ I develop **AI-powered automation workflows**, **intelligent bots & scripts**, *
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/nguyenxuandinhit/MetaAIChecker">MetaAIChecker</a>
+### <a href="https://github.com/nguyenxuandinhit/BTNHOM_NOSQL">BTNHOM_NOSQL</a>
 
-A project focusing on AI integration & verification automation workflows.
+A project by Nguyễn Xuân Định.
 
-<code>python</code> <code>ai-tool</code> <code>automation</code>
+<code>project</code> <code>automation</code>
 
-<a href="https://github.com/nguyenxuandinhit/MetaAIChecker/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/MetaAIChecker?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars for MetaAIChecker" /></a>
-<img src="https://img.shields.io/badge/Python-020617?style=flat-square&logoColor=38bdf8" alt="Primary language: Python" />
-<a href="https://github.com/nguyenxuandinhit/MetaAIChecker"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View MetaAIChecker" /></a>
+<a href="https://github.com/nguyenxuandinhit/BTNHOM_NOSQL/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/BTNHOM_NOSQL?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/BTNHOM_NOSQL"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/nguyenxuandinhit/Spam-send-mail-">Spam-send-mail-</a>
+### <a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner">Downloadlink_CamScanner</a>
 
-Automated email delivery & mailing automation tool.
+A project by Nguyễn Xuân Định.
 
-<code>automation</code> <code>email-tool</code> <code>javascript</code>
+<code>project</code> <code>automation</code>
 
-<a href="https://github.com/nguyenxuandinhit/Spam-send-mail-/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/Spam-send-mail-?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars for Spam-send-mail-" /></a>
-<img src="https://img.shields.io/badge/HTML5_&_JS-020617?style=flat-square&logoColor=38bdf8" alt="Primary language: HTML/JS" />
-<a href="https://github.com/nguyenxuandinhit/Spam-send-mail-"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View Spam-send-mail-" /></a>
+<a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/Downloadlink_CamScanner?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/HTML-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner">Downloadlink_CamScanner</a>
+### <a href="https://github.com/nguyenxuandinhit/MetaAIChecker">MetaAIChecker</a>
 
-Web utility tool for file downloading and document processing.
+A project by Nguyễn Xuân Định.
 
-<code>html</code> <code>javascript</code> <code>utility</code>
+<code>project</code> <code>automation</code>
 
-<a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/Downloadlink_CamScanner?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars for Downloadlink_CamScanner" /></a>
-<img src="https://img.shields.io/badge/HTML5-020617?style=flat-square&logoColor=38bdf8" alt="Primary language: HTML" />
-<a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View Downloadlink_CamScanner" /></a>
+<a href="https://github.com/nguyenxuandinhit/MetaAIChecker/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/MetaAIChecker?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/MetaAIChecker"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
 
 </td>
 <td width="50%" valign="top">
-<!-- Empty slot / Ready for future project -->
+
+### <a href="https://github.com/nguyenxuandinhit/TH_Deep_Learning">TH_Deep_Learning</a>
+
+A project by Nguyễn Xuân Định.
+
+<code>project</code> <code>automation</code>
+
+<a href="https://github.com/nguyenxuandinhit/TH_Deep_Learning/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/TH_Deep_Learning?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/Jupyter%20Notebook-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/TH_Deep_Learning"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/nguyenxuandinhit/Spam-send-mail-">Spam-send-mail-</a>
+
+A project by Nguyễn Xuân Định.
+
+<code>project</code> <code>automation</code>
+
+<a href="https://github.com/nguyenxuandinhit/Spam-send-mail-/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/Spam-send-mail-?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/HTML-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/Spam-send-mail-"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/nguyenxuandinhit/WebBanMyPham">WebBanMyPham</a>
+
+A project by Nguyễn Xuân Định.
+
+<code>project</code> <code>automation</code>
+
+<a href="https://github.com/nguyenxuandinhit/WebBanMyPham/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/WebBanMyPham?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/JavaScript-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/WebBanMyPham"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
+
 </td>
 </tr>
 </table>
-
 <div align="center">
 <a href="https://github.com/nguyenxuandinhit?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-020617?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Explore all projects" /></a>
 </div>
