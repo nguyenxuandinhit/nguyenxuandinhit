@@ -184,40 +184,48 @@ I develop **AI-powered automation workflows**, **intelligent bots & scripts**, *
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner">Downloadlink_CamScanner</a>
+### <a href="https://github.com/nguyenxuandinhit/ShopeeSnip">ShopeeSnip</a>
 
-A project by Nguyễn Xuân Định.
+Automated Shopee data extraction, deals &amp; sniping automation tool.
 
-<code>project</code> <code>automation</code>
+<code>python</code> <code>automation</code> <code>shopee-tool</code> <code>bot</code>
 
-<a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/Downloadlink_CamScanner?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/HTML-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
+<a href="https://github.com/nguyenxuandinhit/ShopeeSnip/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/ShopeeSnip?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/ShopeeSnip"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/nguyenxuandinhit/MetaAIChecker">MetaAIChecker</a>
+### <a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner">Downloadlink_CamScanner</a>
 
-A project by Nguyễn Xuân Định.
+Web utility tool for file downloading and document processing.
 
-<code>project</code> <code>automation</code>
+<code>html</code> <code>javascript</code> <code>utility</code>
 
-<a href="https://github.com/nguyenxuandinhit/MetaAIChecker/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/MetaAIChecker?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/MetaAIChecker"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
+<a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/Downloadlink_CamScanner?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/HTML-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/nguyenxuandinhit/Spam-send-mail-">Spam-send-mail-</a>
+### <a href="https://github.com/nguyenxuandinhit/MetaAIChecker">MetaAIChecker</a>
 
-A project by Nguyễn Xuân Định.
+A project focusing on AI integration &amp; verification automation workflows.
 
-<code>project</code> <code>automation</code>
+<code>python</code> <code>ai-tool</code> <code>automation</code>
 
-<a href="https://github.com/nguyenxuandinhit/Spam-send-mail-/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/Spam-send-mail-?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/HTML-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/Spam-send-mail-"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
+<a href="https://github.com/nguyenxuandinhit/MetaAIChecker/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/MetaAIChecker?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/MetaAIChecker"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
 
 </td>
 <td width="50%" valign="top">
+
+### <a href="https://github.com/nguyenxuandinhit/Spam-send-mail-">Spam-send-mail-</a>
+
+Automated email delivery &amp; mailing automation tool.
+
+<code>automation</code> <code>email-tool</code> <code>javascript</code>
+
+<a href="https://github.com/nguyenxuandinhit/Spam-send-mail-/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/Spam-send-mail-?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/HTML-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/Spam-send-mail-"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
 
 </td>
 </tr>

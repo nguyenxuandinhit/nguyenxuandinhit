@@ -52,13 +52,31 @@ function selectProjects(repositories) {
   return candidates.slice(0, MAX_PROJECTS);
 }
 
+const PROJECT_META = {
+  ShopeeSnip: {
+    desc: "Automated Shopee data extraction, deals & sniping automation tool.",
+    topics: ["python", "automation", "shopee-tool", "bot"],
+  },
+  MetaAIChecker: {
+    desc: "A project focusing on AI integration & verification automation workflows.",
+    topics: ["python", "ai-tool", "automation"],
+  },
+  "Spam-send-mail-": {
+    desc: "Automated email delivery & mailing automation tool.",
+    topics: ["automation", "email-tool", "javascript"],
+  },
+  Downloadlink_CamScanner: {
+    desc: "Web utility tool for file downloading and document processing.",
+    topics: ["html", "javascript", "utility"],
+  },
+};
+
 function renderCard(repo) {
-  const description = escapeHtml(repo.description || "A project by Nguyễn Xuân Định.");
+  const meta = PROJECT_META[repo.name] || {};
+  const description = escapeHtml(repo.description || meta.desc || "A project by Nguyễn Xuân Định.");
   const language = escapeHtml(repo.language || "Multi-language");
-  const topics = (repo.topics || []).slice(0, 4);
-  const topicLine = topics.length
-    ? topics.map((t) => `<code>${escapeHtml(t)}</code>`).join(" ")
-    : "<code>project</code> <code>automation</code>";
+  const topics = repo.topics && repo.topics.length ? repo.topics.slice(0, 4) : (meta.topics || ["project", "automation"]);
+  const topicLine = topics.map((t) => `<code>${escapeHtml(t)}</code>`).join(" ");
 
   return `### <a href="${repo.html_url}">${escapeHtml(repo.name)}</a>\n\n` +
     `${description}\n\n` +
