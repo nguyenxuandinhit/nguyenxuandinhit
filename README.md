@@ -184,17 +184,6 @@ I develop **AI-powered automation workflows**, **intelligent bots & scripts**, *
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/nguyenxuandinhit/BTNHOM_NOSQL">BTNHOM_NOSQL</a>
-
-A project by Nguyễn Xuân Định.
-
-<code>project</code> <code>automation</code>
-
-<a href="https://github.com/nguyenxuandinhit/BTNHOM_NOSQL/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/BTNHOM_NOSQL?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/TypeScript-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/BTNHOM_NOSQL"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
-
-</td>
-<td width="50%" valign="top">
-
 ### <a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner">Downloadlink_CamScanner</a>
 
 A project by Nguyễn Xuân Định.
@@ -204,8 +193,6 @@ A project by Nguyễn Xuân Định.
 <a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/Downloadlink_CamScanner?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/HTML-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/Downloadlink_CamScanner"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <a href="https://github.com/nguyenxuandinhit/MetaAIChecker">MetaAIChecker</a>
@@ -215,17 +202,6 @@ A project by Nguyễn Xuân Định.
 <code>project</code> <code>automation</code>
 
 <a href="https://github.com/nguyenxuandinhit/MetaAIChecker/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/MetaAIChecker?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/MetaAIChecker"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### <a href="https://github.com/nguyenxuandinhit/TH_Deep_Learning">TH_Deep_Learning</a>
-
-A project by Nguyễn Xuân Định.
-
-<code>project</code> <code>automation</code>
-
-<a href="https://github.com/nguyenxuandinhit/TH_Deep_Learning/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/TH_Deep_Learning?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/Jupyter%20Notebook-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/TH_Deep_Learning"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
 
 </td>
 </tr>
@@ -242,14 +218,6 @@ A project by Nguyễn Xuân Định.
 
 </td>
 <td width="50%" valign="top">
-
-### <a href="https://github.com/nguyenxuandinhit/WebBanMyPham">WebBanMyPham</a>
-
-A project by Nguyễn Xuân Định.
-
-<code>project</code> <code>automation</code>
-
-<a href="https://github.com/nguyenxuandinhit/WebBanMyPham/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/WebBanMyPham?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/JavaScript-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/WebBanMyPham"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
 
 </td>
 </tr>

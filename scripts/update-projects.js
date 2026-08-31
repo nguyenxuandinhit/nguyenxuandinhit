@@ -7,6 +7,12 @@ const README_PATH = "README.md";
 const START = "<!-- AUTO-PROJECTS:START -->";
 const END = "<!-- AUTO-PROJECTS:END -->";
 const MAX_PROJECTS = 6;
+const EXCLUDED_REPOS = [
+  "BTNHOM_NOSQL",
+  "WebBanMyPham",
+  "API-webmovie",
+  "TH_Deep_Learning",
+];
 
 const escapeHtml = (value = "") =>
   value.replace(/[&<>"']/g, (character) => ({
@@ -37,7 +43,11 @@ async function fetchRepositories() {
 
 function selectProjects(repositories) {
   const candidates = repositories.filter(
-    (repo) => !repo.fork && !repo.archived && repo.name !== USERNAME,
+    (repo) =>
+      !repo.fork &&
+      !repo.archived &&
+      repo.name !== USERNAME &&
+      !EXCLUDED_REPOS.includes(repo.name),
   );
   return candidates.slice(0, MAX_PROJECTS);
 }
