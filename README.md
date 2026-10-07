@@ -190,7 +190,7 @@ NEO4J
 
 <code>project</code> <code>automation</code>
 
-<a href="https://github.com/nguyenxuandinhit/GeoQuad/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/GeoQuad?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/Multi-language-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/GeoQuad"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
+<a href="https://github.com/nguyenxuandinhit/GeoQuad/stargazers"><img src="https://img.shields.io/github/stars/nguyenxuandinhit/GeoQuad?style=flat-square&labelColor=020617&color=0284c7&logo=github&logoColor=38bdf8" alt="Stars" /></a> <img src="https://img.shields.io/badge/C%23-020617?style=flat-square&logoColor=38bdf8" alt="Language" /> <a href="https://github.com/nguyenxuandinhit/GeoQuad"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="View" /></a>
 
 </td>
 <td width="50%" valign="top">
